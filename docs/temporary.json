@@ -1,0 +1,50 @@
+[
+  {
+    "Plan": "Temporary Citytrip",
+    "Price": "€7",
+    "Geographical Coverage": "Europe",
+    "Max Duration of Travel": "1 trip of 1 to 4 days",
+    "Medical Costs": "€250,000",
+    "Medical Repatriation and Early Return": "Yes",
+    "Assistance on and off the Ski Slope": "No",
+    "Search and Rescue Costs": "€5,000",
+    "Intervention in Case of Natural Disasters": "Yes",
+    "Vehicle Assistance in Europe": "Optional"
+  },
+  {
+    "Plan": "Temporary Snow",
+    "Price": "€31.01",
+    "Geographical Coverage": "Europe",
+    "Max Duration of Travel": "1 trip of max. 45 days",
+    "Medical Costs": "€250,000",
+    "Medical Repatriation and Early Return": "Yes",
+    "Assistance on and off the Ski Slope": "Yes",
+    "Search and Rescue Costs": "€5,000",
+    "Intervention in Case of Natural Disasters": "Yes",
+    "Vehicle Assistance in Europe": "Optional"
+  },
+  {
+    "Plan": "Temporary",
+    "Price": "€19.01",
+    "Geographical Coverage": "Europe",
+    "Max Duration of Travel": "1 trip of max. 45 days",
+    "Medical Costs": "€250,000",
+    "Medical Repatriation and Early Return": "Yes",
+    "Assistance on and off the Ski Slope": "No",
+    "Search and Rescue Costs": "€5,000",
+    "Intervention in Case of Natural Disasters": "Yes",
+    "Vehicle Assistance in Europe": "Optional"
+  },
+  {
+    "Plan": "Temporary Long Trip",
+    "Price": "€114",
+    "Geographical Coverage": "Europe",
+    "Max Duration of Travel": "1 trip of max. 364 days",
+    "Medical Costs": "€750,000 (Europe)",
+    "Medical Repatriation and Early Return": "Yes",
+    "Assistance on and off the Ski Slope": "Yes",
+    "Search and Rescue Costs": "€5,000",
+    "Intervention in Case of Natural Disasters": "Yes",
+    "Vehicle Assistance in Europe": "Yes"
+  }
+]
