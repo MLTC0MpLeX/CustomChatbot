@@ -8,7 +8,7 @@ import os
 import json
 
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'YOUR_API_KEY'
 openai.api_key = os.environ["OPENAI_API_KEY"]
 encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")
 
